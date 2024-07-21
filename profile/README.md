@@ -7,10 +7,12 @@ WinnerList, airdropları listeleyen ve yeni projelerin airdroplarını yönetmel
 # Yenilikçi Airdrop Havuzu
 WinnerList, piyasadaki güncel airdropları bir araya getirerek bir airdrop havuzu oluşturur, yeterli görsel ve metinsel içeriğiyle airdroplar hakkında kullanıcıyı bilinçlendirir. Kullanıcının katıldıgı airdropları claim edebilmesine olanak sağlar. Bu sayede hem kullanıcıya kolaylık sağlar hem de airdrop yayınlamıs olan proje sahibine airdrop hizmetinde destek sağlar.
 
-# Kripto para dünyasında airdrop'lar, yeni projelerin tanıtımı ve benimsenmesi için önemli bir araç haline gelmiştir, ancak farklı platformlarda (web siteleri, sosyal medya, forumlar vb.) dağınık bir şekilde yer almaları hem airdrop avcıları hem de proje sahipleri için sorunlar yaratmaktadır. WinnerList tüm bu problemlere çözüm olacak airdrop platformudur.
+Kripto para dünyasında airdrop'lar, yeni projelerin tanıtımı ve benimsenmesi için önemli bir araç haline gelmiştir, ancak farklı platformlarda (web siteleri, sosyal medya, forumlar vb.) dağınık bir şekilde yer almaları hem airdrop avcıları hem de proje sahipleri için sorunlar yaratmaktadır. WinnerList tüm bu problemlere çözüm olacak airdrop platformudur.
 
 # Çözüm Önerimiz
 Kripto para dünyasında airdrop'lar, yeni projelerin topluluk oluşturma ve token dağıtma yöntemlerinin başında gelmektedir. Ancak, airdrop avcıları için bu süreç oldukça dağınık ve zaman alıcı olabilir. Kullanıcılar, farklı platformlarda farklı airdrop'ları takip etmek zorunda kalır ve bu da fırsatların kaçmasına neden olabilir. Ayrıca, airdrop kampanyalarını yürüten projeler için, geniş kitlelere ulaşmak ve kampanyalarının etkinliğini ölçmek zor olabilir
 
 Doc : https://winnerlist.gitbook.io/
 Twitter : https://x.com/winnerlistapp
+
+![Sosyal](https://github.com/user-attachments/assets/c3e2700c-bce5-4c44-be4a-1178a25f0c29)
